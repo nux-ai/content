@@ -15,7 +15,7 @@ Below is a markdown diagram to represent how RAG works:
 |              |       | documents)       |       | coherent text)   |
 +--------------+       +------------------+       +------------------+
          |                                           ^
-         | Query                                      | Generated
+         | Query                                     | Generated
          v                                           | Response
 +-------------------+                         +-------------------+
 |   Document        |                         |   User            |
